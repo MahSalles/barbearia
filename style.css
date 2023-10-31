@@ -2,8 +2,12 @@ body{
     background: #7476de
 }
 
+#banner{
+width:100%;
+}
+
 h1{
-    color:hotpink;
+    color:rgb(255, 105, 180);
     text-align: center;
     
 }
@@ -12,6 +16,11 @@ p {
     text-align: center;
     font-size: 24px;
 }
+
+#missao {
+    font-size:30px;
+}
+
 em strong{
-color:mintcream;
+color:rgb(245, 255, 250);
 }
