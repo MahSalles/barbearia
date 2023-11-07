@@ -1,13 +1,17 @@
 body{
-    background: #7476de
+    background: #d4d4f0
 }
 
 #banner{
-width:100%;
+   width:100%;
+}
+
+.Principal{
+    background: #e9e9f9;
 }
 
 h1{
-    color:rgb(255, 105, 180);
+    color:rgba(51, 3, 27, 0.983);
     text-align: center;
     
 }
@@ -22,5 +26,21 @@ p {
 }
 
 em strong{
-color:rgb(245, 255, 250);
+color:rgb(11, 7, 48);
+}
+
+.itens{
+    font-style: italic;
+}
+
+.Benefícios{
+    background:#e6e6f5 ;
+}
+
+h2{
+    text-align: center;
+}
+
+#beneficios{
+    width: 100%;
 }
